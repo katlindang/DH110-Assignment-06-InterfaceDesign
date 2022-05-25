@@ -22,6 +22,8 @@ link to digitized wireflow
 [![Screen-Shot-2022-05-25-at-2-53-32-PM.png](https://i.postimg.cc/sx1BKWcV/Screen-Shot-2022-05-25-at-2-53-32-PM.png)](https://postimg.cc/Pvsr5P9c)
 
 ### Typographic Variations:
+[![Screen-Shot-2022-05-25-at-3-44-38-PM.png](https://i.postimg.cc/pL4LtTHd/Screen-Shot-2022-05-25-at-3-44-38-PM.png)](https://postimg.cc/0zGsY9rg)
+
 
 ### Shape Variations:
 
