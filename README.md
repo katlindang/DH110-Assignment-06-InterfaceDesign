@@ -19,6 +19,7 @@ link to digitized wireflow
 
 ### Layout Design:
 
+[![Screen-Shot-2022-05-25-at-2-53-32-PM.png](https://i.postimg.cc/sx1BKWcV/Screen-Shot-2022-05-25-at-2-53-32-PM.png)](https://postimg.cc/Pvsr5P9c)
 
 ### Typographic Variations:
 
