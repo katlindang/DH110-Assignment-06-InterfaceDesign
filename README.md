@@ -22,15 +22,18 @@ link to digitized wireflow
 [![Screen-Shot-2022-05-25-at-2-53-32-PM.png](https://i.postimg.cc/sx1BKWcV/Screen-Shot-2022-05-25-at-2-53-32-PM.png)](https://postimg.cc/Pvsr5P9c)
 
 ### Typographic Variations:
-[![Screen-Shot-2022-05-25-at-3-44-38-PM.png](https://i.postimg.cc/pL4LtTHd/Screen-Shot-2022-05-25-at-3-44-38-PM.png)](https://postimg.cc/0zGsY9rg)
+[![Screen-Shot-2022-05-26-at-8-18-52-PM.png](https://i.postimg.cc/gJ4j6H28/Screen-Shot-2022-05-26-at-8-18-52-PM.png)](https://postimg.cc/Hccdq55k)
 
 
 ### Shape Variations:
 
+[![Screen-Shot-2022-05-26-at-8-48-32-PM.png](https://i.postimg.cc/tJJP5t2Q/Screen-Shot-2022-05-26-at-8-48-32-PM.png)](https://postimg.cc/Lgdn4PcN)
+
 ### Color Variations:
 
+[![Screen-Shot-2022-05-26-at-9-53-04-PM.png](https://i.postimg.cc/XYys0Fdk/Screen-Shot-2022-05-26-at-9-53-04-PM.png)](https://postimg.cc/Bj4TTjhj)
 
-## Color Contrast Check
+## Color Contrast Check:
 
 
 # Design Decisions: 
