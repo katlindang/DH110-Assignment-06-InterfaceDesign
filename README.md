@@ -85,10 +85,10 @@ The purpose of this interface design project is to develop the style of the app.
 
 ### Color Scheme 
 
-Since my demographics are mostly middle-aged men, I wanted to choose a darker color. I liked the idea of a burgundy red color, but dark blue seemed more fitting and relaxing. In addition, studies show that the color blue is linked to better learning situations. I chose orange as a contrast color because it is visually appealing and works well with dark navy colors. 
+> Since my demographics are mostly middle-aged men, I wanted to choose a darker color. I liked the idea of a burgundy red color, but dark blue seemed more fitting and relaxing. In addition, studies show that the color blue is linked to better learning situations. I chose orange as a contrast color because it is visually appealing and works well with dark navy colors. 
 
 ### Layout Grid
 
-I  had my layout for my wireframe created before I chose my layput grid. However, the layout grid helped me balance and keep my design aligned to fit the layout of a mobile app. The grid helped me create margins so that the text or boxes aren't too close to the edges.
+> I  had my layout for my wireframe created before I chose my layput grid. However, the layout grid helped me balance and keep my design aligned to fit the layout of a mobile app. The grid helped me create margins so that the text or boxes aren't too close to the edges.
 
 
