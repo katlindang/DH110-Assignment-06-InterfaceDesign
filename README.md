@@ -37,3 +37,5 @@ link to digitized wireflow
 
 
 # Design Decisions: 
+
+[![Screen-Shot-2022-06-01-at-1-06-27-AM.png](https://i.postimg.cc/6QPXT5B9/Screen-Shot-2022-06-01-at-1-06-27-AM.png)](https://postimg.cc/4KpMSGKM)
