@@ -18,7 +18,8 @@ The purpose of this interface design project is to develop the style of the app.
 
 ### Layout Design:
 
-[![Screen-Shot-2022-05-25-at-2-53-32-PM.png](https://i.postimg.cc/sx1BKWcV/Screen-Shot-2022-05-25-at-2-53-32-PM.png)](https://postimg.cc/Pvsr5P9c)
+[![Screen-Shot-2022-06-01-at-2-08-43-AM.png](https://i.postimg.cc/rFCdp9JF/Screen-Shot-2022-06-01-at-2-08-43-AM.png)](https://postimg.cc/nCrVRBg6)
+
 
 ### Typographic Variations:
 [![Screen-Shot-2022-05-26-at-8-18-52-PM.png](https://i.postimg.cc/gJ4j6H28/Screen-Shot-2022-05-26-at-8-18-52-PM.png)](https://postimg.cc/Hccdq55k)
@@ -49,8 +50,45 @@ The purpose of this interface design project is to develop the style of the app.
 
 [![Screen-Shot-2022-06-01-at-1-37-51-AM.png](https://i.postimg.cc/rpgs8YyS/Screen-Shot-2022-06-01-at-1-37-51-AM.png)](https://postimg.cc/8FJN4465)
 
+# Final Design Decision:
+
+[![Screen-Shot-2022-06-01-at-2-19-45-AM.png](https://i.postimg.cc/8kt6N4Pd/Screen-Shot-2022-06-01-at-2-19-45-AM.png)](https://postimg.cc/py5TBDjy)
+
+# Design System: 
+
+
+- Typeface:
+ - Family: Lexend
+   -  Header: Medium, Size 26
+   - Button Labels: Regular, Size 20
+   - Body: Regular, Size 15
+
+* Color Scheme:
+ - Header Color: FFFFFF/3C8AFF
+   - Subheader / Text Color: FFFFFF
+   - Button Color: A4C3FF
+   - Alternate Text Color: 000000
+   - Background Color: 013F78
+* Layout Grid:
+* 5 columns by 10 rows
+ - Columns: 
+   - Margins: 25
+   - Gutter: 20
+ - Rows:
+   - Gutter: 5
+
+
 # Design Decision: 
 
+### Typeface:
+> I played around with all three choices for my wirefram and liked each of them. I chose Lexend over the others because it looks simple and modern. I didn't choose Bebas Neue because it was too bold and made the letters look crowded and cramped together. Although I liked Lato, Lexend had a slight advantage because of the letter spacing and roundness of the letters.
+
+### Color Scheme 
+
+Since my demographics are mostly middle-aged men, I wanted to choose a darker color. I liked the idea of a burgundy red color, but dark blue seemed more fitting and relaxing. In addition, studies show that the color blue is linked to better learning situations. I chose orange as a contrast color because it is visually appealing and works well with dark navy colors. 
+
+### Layout Grid
+
+I  had my layout for my wireframe created before I chose my layput grid. However, the layout grid helped me balance and keep my design aligned to fit the layout of a mobile app. The grid helped me create margins so that the text or boxes aren't too close to the edges.
 
 
-Design System: 
