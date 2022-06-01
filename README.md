@@ -6,9 +6,8 @@ The goal of this project is to redesign a music learning app called "Learning Mu
 
 The purpose of this interface design project is to develop the style of the app. We will be looking at color, shape variation, typographic variation, etc. The designs are based on the Iphone 13 Pro Max screen size and this project was created on Figma.
 
+[Link to the interface design page](https://www.figma.com/file/qWik4xZQjP7MhKW7EFLLZk/Assignment-6?node-id=22%3A1058)
 
-
-link to digitized wireflow 
 
 
 ## Chosen Wireframe
@@ -31,11 +30,27 @@ link to digitized wireflow
 
 ### Color Variations:
 
-[![Screen-Shot-2022-05-26-at-9-53-04-PM.png](https://i.postimg.cc/XYys0Fdk/Screen-Shot-2022-05-26-at-9-53-04-PM.png)](https://postimg.cc/Bj4TTjhj)
+[![Screen-Shot-2022-06-01-at-1-46-46-AM.png](https://i.postimg.cc/RZfDtjjz/Screen-Shot-2022-06-01-at-1-46-46-AM.png)](https://postimg.cc/tsqkQmqr)
 
 ## Color Contrast Check:
 
+### Text vs Background
 
-# Design Decisions: 
+[![Screen-Shot-2022-06-01-at-1-36-12-AM.png](https://i.postimg.cc/W1wbnfkQ/Screen-Shot-2022-06-01-at-1-36-12-AM.png)](https://postimg.cc/4Yng4Pw5)
 
-[![Screen-Shot-2022-06-01-at-1-06-27-AM.png](https://i.postimg.cc/6QPXT5B9/Screen-Shot-2022-06-01-at-1-06-27-AM.png)](https://postimg.cc/4KpMSGKM)
+### Button vs Background
+[![Screen-Shot-2022-06-01-at-1-44-36-AM.png](https://i.postimg.cc/907nBKrT/Screen-Shot-2022-06-01-at-1-44-36-AM.png)](https://postimg.cc/Mfz56s0K)
+
+[![Screen-Shot-2022-06-01-at-1-37-12-AM.png](https://i.postimg.cc/65BPZjB7/Screen-Shot-2022-06-01-at-1-37-12-AM.png)](https://postimg.cc/6T1zJh2w)
+
+
+
+### Button Label vs Button
+
+[![Screen-Shot-2022-06-01-at-1-37-51-AM.png](https://i.postimg.cc/rpgs8YyS/Screen-Shot-2022-06-01-at-1-37-51-AM.png)](https://postimg.cc/8FJN4465)
+
+# Design Decision: 
+
+
+
+Design System: 
